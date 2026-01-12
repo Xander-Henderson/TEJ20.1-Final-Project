@@ -3,6 +3,9 @@
  * Created by: Alexander
  * Created on: Jan 2026
  * This program moves a tank forward on a sound, then will stop
+ * before it hits a wall. When A or B pressed after the tank stops, 
+ * it will turn left or right. Neopixels light up red when stopped
+ * and green when driving.
  *  
 */
 
